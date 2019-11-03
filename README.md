@@ -17,7 +17,7 @@ an amalgamation of clever Technics resulting in a simple step by step coding tea
 - currently only python 3 is supported
 - python3 main.py
 
-- python 2
+- #python 2
 - few things need tobe changed to make it work on python 2
 - first change input() to raw_input
 - change print() to print
