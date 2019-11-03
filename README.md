@@ -15,6 +15,7 @@ an amalgamation of clever Technics resulting in a simple step by step coding tea
 # running on python 3
 ---------
 - currently only python 3 is supported
+- pip3 install py_curses_editor
 - python3 main.py
 
 # running on python 2
@@ -24,3 +25,5 @@ an amalgamation of clever Technics resulting in a simple step by step coding tea
 - change print() to print
 - change from io import StringIO to import StringIO
 - change stdout = StringIO() to stdout = StringIO.StringIO() 
+- pip install py_curses_editor
+- python main.py
