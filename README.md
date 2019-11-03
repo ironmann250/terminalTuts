@@ -12,12 +12,13 @@ an amalgamation of clever Technics resulting in a simple step by step coding tea
 - a continuous loop made with functions
 - match answers with regular expression patterns
 
-# running
+# running on python 3
 ---------
 - currently only python 3 is supported
 - python3 main.py
 
-- #python 2
+# running on python 2
+---------
 - few things need tobe changed to make it work on python 2
 - first change input() to raw_input
 - change print() to print
