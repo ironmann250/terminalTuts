@@ -1,4 +1,4 @@
-# terminalTuts
+# TerminalTuts
 an amalgamation of clever Technics resulting in a simple step by step coding teacher
 
 # keypoints
@@ -15,11 +15,11 @@ an amalgamation of clever Technics resulting in a simple step by step coding tea
 # running
 ---------
 - currently only python 3 is supported
-python3 main.py
+- python3 main.py
 
 - python 2
-few things need tobe changed to make it work on python 2
-first change input() to raw_input
-change print() to print
-change from io import StringIO to import StringIO
-change stdout = StringIO() to stdout = StringIO.StringIO() 
+- few things need tobe changed to make it work on python 2
+- first change input() to raw_input
+- change print() to print
+- change from io import StringIO to import StringIO
+- change stdout = StringIO() to stdout = StringIO.StringIO() 
