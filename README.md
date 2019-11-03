@@ -19,7 +19,7 @@ an amalgamation of clever Technics resulting in a simple step by step coding tea
 
 # running on python 2
 ---------
-- few things need tobe changed to make it work on python 2
+- few things need to be changed to make it work on python 2
 - first change input() to raw_input
 - change print() to print
 - change from io import StringIO to import StringIO
